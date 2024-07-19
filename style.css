@@ -1,0 +1,8 @@
+/* styles.css */
+
+body{
+    display: grid;
+    height: 100vh;
+    background: black;
+    padding-top: 5px;
+}
